@@ -1,0 +1,4 @@
+- [] carousel fix
+- [] instagram links
+- [] maps
+- [] opens phone app/whatsapp when clicking on phone number
