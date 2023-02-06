@@ -126,6 +126,11 @@ h4 {
   font-size: 22px;
 }
 
+.carousel_resize{
+  width: 70%
+}
+
+
 ::selection {
   color: #fff;
   background: #17bed2;
